@@ -17,9 +17,9 @@ Quick start
         'role_permission',
     ]
 
-2. Run `python manage.py migrate` to create the role-permission models.
+2. Run :code:`python manage.py migrate` to create the role-permission models.
 
-3. (OPTIONAL) Run `python manage.py initrolepermission` to seed database with provided 
+3. (OPTIONAL) Run :code:`python manage.py initrolepermission` to seed database with provided 
    default roles and permissions.
 
 4. Start the development server and visit http://127.0.0.1:8000/admin/
