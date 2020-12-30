@@ -5,7 +5,7 @@ Role_Permission
 Django reusable app intended to boost development of projects 
 which need role-permission logic. 
 
-Detailed documentation is in the "docs" directory.
+Detailed documentation will be added to the "docs" directory in the future.
 
 Quick start
 -----------
